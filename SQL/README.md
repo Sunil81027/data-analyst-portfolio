@@ -1,15 +1,17 @@
 SQL Practice
 
-This folder contains my SQL practice queries and data analysis work.
+SQL
 
-Topics:
+This folder contains my SQL practice queries and data analysis work folder.
 
-- SQL Basics
-- Joins
-- Aggregate Functions
-- Window Functions
-- Subqueries
-- CTEs
-- Data Analysis Queries
+Folder Structure
 
-The queries are written to practice real-world problems.
+- Practice SQL Queries
+
+  Contains SQL practice problems and solutions from platforms like HackerRank and LeetCode.
+
+- Data Analysis Work
+
+  Contains SQL queries used for real-world data analysis and business insights.
+
+The purpose of this folder is to improve my SQL skills for data analysis.
