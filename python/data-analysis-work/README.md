@@ -1,6 +1,6 @@
 Data Analysis Work
 
-This folder contains my data analysis projects using Python.
+This folder contains multiple data analysis projects folder using Python.
 
 Tools Used:
 
@@ -13,3 +13,10 @@ Tools Used:
 - Seaborn
   
 - Jupyter Notebook
+
+- PROJECTS NAMES--
+
+- 1st Projects -- Nigeria Sales Data Analysis
+
+- 2nd Project -- Upcoming...
+
