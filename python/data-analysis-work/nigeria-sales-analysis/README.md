@@ -93,6 +93,6 @@ Project Completion
 
 December 2025
 
----
 
-⭐ If you found this project useful, feel free to give it a star!
+
+If you found this project useful, feel free to give it a star!
