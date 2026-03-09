@@ -1,6 +1,6 @@
 Data Analysis Work
 
-This folder contains SQL queries used for data analysis.
+This folder contains SQL queries project folder used for data analysis.
 
 The queries focus on extracting insights from datasets such as:
 
