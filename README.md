@@ -9,19 +9,13 @@ Excel – Data cleaning, pivot tables, dashboards
 Power BI – Interactive dashboards and data visualization
 Repository Structure
 Data-Analyst-Portfolio
-│
-├── SQL
-│   ├── Practice
-│   └── Projects
-│
-├── Python
-│   ├── Practice
-│   └── Data-Analysis
-│
-├── Excel
-│   └── Projects
-│
-├── PowerBI
-│   └── Dashboards
-│
-└── Portfolio-Projects
+
+SQL - Practice , Projects
+
+Python - Practice , Data-Analysis
+
+Excel - Projects
+
+PowerBI - Dashboards
+
+Portfolio - Projects
