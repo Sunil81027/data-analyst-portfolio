@@ -9,7 +9,7 @@ Skills--
 
 SQL – Data querying, joins, window functions, cte, data analysis
 
-Python – Pandas, NumPy, data cleaning, data analysis
+Python – Pandas, NumPy, Matplotlib, Seaborn, data cleaning, data analysis
 
 Excel – Data cleaning, pivot tables, dashboards
 
