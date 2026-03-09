@@ -15,9 +15,8 @@ Excel – Data cleaning, pivot tables, dashboards
 
 Power BI – Interactive dashboards and data visualization
 
-Repository Structure
+Repository Structure--
 
-Data-Analyst-Portfolio
 
 SQL - Practice , Projects
 
